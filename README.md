@@ -6,5 +6,5 @@ Kollektion von Beispielaufnahmen aus öffentlichen Datensätzen zu Diabetischen 
 3. AMD-Datensatz: Peyman Gholami, et al. https://doi.org/10.1016/j.compeleceng.2019.106532.
 
 Interaktive Notebooks:
-1. Notebook: Bildbearbeitung.ipynb
+1. Notebook: Bildexploration.ipynb
 2. Notebook: Intro_ML.ipynb
